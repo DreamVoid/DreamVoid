@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![](https://github.com/DreamVoid/DreamVoid-Status/blob/master/generated/overview.svg)
-![](https://github.com/DreamVoid/DreamVoid-Status/blob/master/generated/languages.svg)
+#### 放假通知
+
+我已开始为期5个月的Github假期（2020年8月~2021年1月），如此期间有任何问题，请电邮ambilight@vip.qq.com
+Issue、PR将在假期结束后统一处理
 
 #### 关于我
 - 🔭 目前是一名在校学生
@@ -12,3 +14,8 @@
 我的英文ID：“DreamVoid”。它由“Dream”和“Void”两个单词组成，前一个单词大家都很熟悉，后一个单词是我玩Hypixel玩习惯了，然后把虚空（Void）的单词加进来，这样拼凑成的我的ID。我是这样解释它的：梦想坠入虚空而消失
 
 我的中文ID：“流光溢彩Last”。它由一部分中文和一部分英文组成。“流光溢彩”是由我用“流光”一词拓展而来，最初使用“流光”是因为过去有一款黑客软件也叫“流光”，“Last”的来源很简单，我之前用过的英文ID是“LastDream”
+
+#### 我的Github数据
+
+![](https://github.com/DreamVoid/DreamVoid-Status/blob/master/generated/overview.svg)
+![](https://github.com/DreamVoid/DreamVoid-Status/blob/master/generated/languages.svg)
