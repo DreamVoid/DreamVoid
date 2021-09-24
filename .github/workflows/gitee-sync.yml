@@ -25,4 +25,4 @@ jobs:
           dst: gitee/dreamvoid
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
-          white_list: "MiraiMC, Chat2QQ, Link2QQ"
+          white_list: "MiraiMC, Chat2QQ, Link2QQ, Report2QQ, MiraiMC-Template"
