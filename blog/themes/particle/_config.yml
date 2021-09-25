@@ -50,7 +50,7 @@ menu:
 # side info card
 card:
   enable: true
-  description: ["正しさなんてもの", "人のモノサシによって変わる"]
+  description: ["握不住的沙，不如扬了它。"]
   icon_links:
     github:
       icon:
@@ -76,7 +76,7 @@ gitalk:
   enable: false
   clientID: # GitHub Application Client ID
   clientSecret: # GitHub Application Client Secret
-  repo: hexo-theme-particle # The name of repository of store comments
+  repo: DreamVoid # The name of repository of store comments
   owner: DreamVoid # GitHub repo owner
   admin: DreamVoid # GitHub repo owner and collaborators, only these guys can initialize github issues
   language: zh-CN # en, zh-CN, zh-TW, es-ES, fr, ru, de, pl and ko are currently available.
