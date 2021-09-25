@@ -13,3 +13,4 @@
 
 ![](https://github.com/DreamVoid/DreamVoid-Status/blob/master/generated/overview.svg)
 ![](https://github.com/DreamVoid/DreamVoid-Status/blob/master/generated/languages.svg)
+![](https://github-readme-stats.vercel.app/api?username=DreamVoid&show_icons=true)
