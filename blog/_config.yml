@@ -44,7 +44,7 @@ post_asset_folder: false
 relative_link: true
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: true
   tab_replace: ''
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: particle
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
