@@ -63,21 +63,13 @@ card:
         name: github
         theme: filled
         src:
-      link: https://github.com/korilin
-    twitter:
-      icon:
-        type: antd-icon
-        name: twitter
-        theme:
-        src:
-      link: https://twitter.com/korilin_dev
+      link: https://github.com/DreamVoid
   friend_links:
-    英文技术博客: https://en.korilin.com
-    日语记录博客: https://jp.korilin.com
+    哔哩哔哩: https://space.bilibili.com/151029210
 
 # footer info
 footer:
-  since: 2018
+  since: 2021
   # Customize the server domain name ICP
   ICP:
     enable: false
@@ -86,13 +78,13 @@ footer:
 # Gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
-  enable: true
+  enable: false
   clientID: # GitHub Application Client ID
   clientSecret: # GitHub Application Client Secret
   repo: hexo-theme-particle # The name of repository of store comments
   owner: korilin # GitHub repo owner
   admin: korilin # GitHub repo owner and collaborators, only these guys can initialize github issues
-  language: en # en, zh-CN, zh-TW, es-ES, fr, ru, de, pl and ko are currently available.
+  language: zh-CN # en, zh-CN, zh-TW, es-ES, fr, ru, de, pl and ko are currently available.
 
 # theme style: full / night / maiden, defalut: full
-style: maiden
+style: full
