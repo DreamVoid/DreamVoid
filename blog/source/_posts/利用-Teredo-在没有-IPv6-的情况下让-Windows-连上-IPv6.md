@@ -1,5 +1,5 @@
 ---
-title: 在没有 IPv6 的情况下让 Windows 连上 IPv6
+title: 利用 Teredo 在没有 IPv6 的情况下让 Windows 连上 IPv6
 date: 2021-10-17 18:00:42
 tags: IPv6
 ---
