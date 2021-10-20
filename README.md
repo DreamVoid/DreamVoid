@@ -16,5 +16,5 @@
 * 我有钱买域名，但我非常喜欢使用免费域名，并且尤其喜欢 **.ml** 顶域。
 
 #### 我的Github数据
-![](https://github-readme-stats.vercel.app/api?username=DreamVoid&show_icons=true&locale=cn)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamVoid&layout=compact&locale=cn)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DreamVoid&show_icons=true&locale=cn&hide_border=true&theme=buefy" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamVoid&layout=compact&locale=cn&hide_border=true&theme=buefy" /> |
+| ------------- | ------------- |
