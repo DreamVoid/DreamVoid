@@ -14,6 +14,7 @@
 * 虽然我的第一个真正意义上的项目 MiraiMC 是一个很完善的插件并且有很多好评，但其实在创建这个仓库的前一天**我根本没有接触过 Java 开发，甚至没有完善的 Java 基础**！
 * 我有一点强迫症，比如我喜欢（没有意义的）整理代码，但我真的写起代码来完全不拘一格。比如我会把 Java 的方法写成这样：```public void AnExampleMethod(String a,boolean b){}```（规范的写法**逗号**和 **b** 中间要有空格，并且**右括号**和**左花括号**也要有空格，开头 **An** 的 **A** 最好是小写以遵循小驼峰命名法）。
 * 我有钱买域名，但我非常喜欢使用免费域名，并且尤其喜欢 **.ml** 顶域。
+* 我不知道**陈春**是谁，但是肯定有人把我错认为TA了。不过，我知道**顾红光**是谁。
 
 #### 我的Github数据
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=DreamVoid&show_icons=true&locale=cn&hide_border=true&theme=buefy" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamVoid&layout=compact&locale=cn&hide_border=true&theme=buefy" /> |
