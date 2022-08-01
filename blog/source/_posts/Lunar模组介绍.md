@@ -1,10 +1,7 @@
 ---
 title: Lunar模组Forge版介绍
 date: 2022-07-21 11:00:00
-tags: 
-- Minecraft
-- Lunar Client
-- Forge
+tags: Minecraft
 ---
 B站视频链接：https://www.bilibili.com/video/av601246953
 

@@ -1,8 +1,7 @@
 ---
 title: 让不支持 TPM 模块的 Windows 10 设备能够升级到 Windows 11
 date: 2021-10-20 00:33:22
-tags: 
-- Windows
+tags: Windows
 ---
 微软发布了 Windows 11，我自然是想尝试一下，但怎奈 Windows 11 又要 TPM 又要安全启动，我的老主板没法支持。
 

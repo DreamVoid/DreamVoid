@@ -1,9 +1,7 @@
 ---
 title: CentOS7 升级 Let's Encrypt 根证书
 date: 2021-10-04 00:36:32
-tags: 
-- SSL
-- CentOS
+tags: SSL
 ---
 Lets Encrypt 根证书于 2021 年 9 月 30 日到期。CentOS 7 上都会受到影响，升级CA证书即可修复。
 
