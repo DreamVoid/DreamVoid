@@ -7,8 +7,6 @@ tags:
 categories: 游戏
 ---
 
-# 给你的存档瘦身吧！使用 Thanos 优雅的优化世界文件体积。
-
 ## 前言
 ### Thanos 是什么？
 Thanos 是一个 PHP 库，由 Aternos 团队开发，可以自动检测并删除 Minecraft 世界中未使用的区块。这可以将世界文件的大小减少 50% 以上，从而释放磁盘空间。
