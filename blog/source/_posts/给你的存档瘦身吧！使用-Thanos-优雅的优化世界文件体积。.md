@@ -45,6 +45,8 @@ composer require aternos/thanos
 
 如果你是首次通过宝塔安装 PHP，则在执行以上命令后会出现这样的红底白字警告：```putenv() has been disabled for security reasons```，此时需要进入宝塔面板的 PHP 管理中删除禁用函数。
 
+![删除禁用函数](/image/删除禁用函数.png)
+
 你一共要删除这些函数：
 * putenv
 * proc_open
