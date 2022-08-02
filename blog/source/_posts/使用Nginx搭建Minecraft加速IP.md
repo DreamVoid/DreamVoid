@@ -5,6 +5,7 @@ tags:
 - Nginx
 - 加速IP
 - Minecraft
+categories: 游戏
 ---
 大致就是用Nginx建一个Stream配置文件实现流量转发
 

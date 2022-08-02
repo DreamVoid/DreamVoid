@@ -4,6 +4,7 @@ date: 2022-08-02 15:53:11
 tags:
 - Minecraft
 - Spigot
+categories: 游戏
 ---
 
 # 给你的存档瘦身吧！使用 Thanos 优雅的优化世界文件体积。

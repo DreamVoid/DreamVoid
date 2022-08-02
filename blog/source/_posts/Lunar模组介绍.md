@@ -2,6 +2,7 @@
 title: Lunar模组Forge版介绍
 date: 2022-07-21 11:00:00
 tags: Minecraft
+categories: 游戏
 ---
 B站视频链接：https://www.bilibili.com/video/av601246953
 
