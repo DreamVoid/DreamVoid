@@ -76,11 +76,11 @@ composer require aternos/thanos
 
 我的 1.19 生存服务器的主世界原来的大小接近 9 GB：
 
-![优化前](image/before.png)
+![优化前](/image/before.png)
 
 使用本工具优化以后，大小变为 5.44 GB，再也不怕玩家跑图生成无意义的区块占用磁盘空间了：
 
-![优化后](image/after.png)
+![优化后](/image/after.png)
 
 ## 注意事项
 
