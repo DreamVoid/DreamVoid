@@ -202,7 +202,7 @@ cp buildspec.mk.default buildspec.mk
 之后，修改 `buildspec.mk` 文件，找到 `TARGET_BUILD_VARIANT:=user` 删除前面的 `#` 号。
 
 现在，按照正常流程构建 LineageOS：
-```bassh
+```bash
 cd ~/android/lineage
 source build/envsetup.sh
 breakfast enchilada user
