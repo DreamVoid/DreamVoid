@@ -1,7 +1,9 @@
 ---
 title: 为 OnePlus 6 构建 LineageOS 22.2 并在使用 KernelSU 的情况下锁定 Bootloader
 date: 2025-05-14 12:24:28
-tags: LineageOS
+tags: 
+- LineageOS
+- Android
 categories: 技术
 ---
 # 为 OnePlus 6 构建 LineageOS 22.2 并在使用 KernelSU 的情况下锁定 Bootloader
