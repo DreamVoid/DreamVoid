@@ -20,5 +20,5 @@
 * 我只是一个学生，但是我已经通过 GitHub 收到了来自世界各地的工作机会邀请邮件🙏
 
 #### 我的Github数据
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DreamVoid&show_icons=true&locale=cn&hide_border=true&theme=buefy" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamVoid&layout=compact&locale=cn&hide_border=true&theme=buefy" /> |
+| <img align="center" src="https://github-readme-stats.dreamvoid.me/api?username=DreamVoid&show_icons=true&locale=cn&hide_border=true&theme=buefy" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.dreamvoid.me/api/top-langs/?username=DreamVoid&layout=compact&locale=cn&hide_border=true&theme=buefy" /> |
 | ------------- | ------------- |
