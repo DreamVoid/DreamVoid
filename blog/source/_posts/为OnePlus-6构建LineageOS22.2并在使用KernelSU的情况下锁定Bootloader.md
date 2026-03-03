@@ -14,7 +14,7 @@ categories: 技术
 
 ## 准备工作
 
-- 一台 OnePlus 6 （代号 enchilada）；
+- 一台 OnePlus 6 （代号 `enchilada`）；
 - 一台搭载 Ubuntu 24.02 LTS 的具备超过 400GB 硬盘的主机；
 - 能够访问 GitHub 的网络连接，我们需要下载超过 100GB 的文件。
 
@@ -147,7 +147,7 @@ AB_OTA_PARTITIONS += abl aop bluetooth cmnlib cmnlib64 devcfg dsp fw_4j1ed fw_4u
 
 #### (2) 修改 sdm845-common 的 `BoardConfigCommon.mk`（可选）
 
-修改这个的作用是启用 LineageOS 默认禁用的分区验证，我们已经集成了 KernelSU 和 GApps，所以我们可以开启分区验证。
+修改这个的作用是启用 LineageOS 默认禁用的分区验证，我们准备集成 KernelSU 和 GApps，所以我们可以开启分区验证。
 
 在 `device/oneplus/sdm845-common/BoardConfigCommon.mk` 文件中，找到并注释以下行：
 ```
@@ -394,5 +394,5 @@ fastboot oem lock
 
 ## 已知问题
 
-- 经过测试，集成 KernelSU-Next 后，KSUN 管理器`无法获取 root 权限`，查阅 logcat 并尝试将 SELinux 设为宽容模式后得知为 SELinux 规则问题，且就算设为宽容模式也无法授予 root 给其他软件。
+- 经过测试，集成 KernelSU-Next 后，KSUN 管理器`无法获取 root 权限`，~~查阅 logcat 并尝试将 SELinux 设为宽容模式后得知为 SELinux 规则问题，且就算设为宽容模式也无法授予 root 给其他软件。~~后续了解实际原因为内核的支持不完全，所以 KernelSU 没法正常使用。
 - 经过测试，TEE 仍然不可用，密钥认证演示提示错误代码 `-10003`。此项尚未经过更广泛的测试（即非 LineageOS 是否也是如此）

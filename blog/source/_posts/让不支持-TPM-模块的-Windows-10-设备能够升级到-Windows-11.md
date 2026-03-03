@@ -6,7 +6,7 @@ categories: 技术
 ---
 微软发布了 Windows 11，我自然是想尝试一下，但怎奈 Windows 11 又要 TPM 又要安全启动，我的老主板没法支持。
 
-哪里有压迫，哪里就有反抗。我找了一下资料，发现了绕过这两个限制的方法。（[参考资料](https://www.seozhh.com/12628.html)）
+我找了一下资料，发现了绕过这两个限制的方法。（[参考资料](https://www.seozhh.com/12628.html)）
 
 1. 打开“注册表编辑器”（Win + R，键入```regedit```）；
 2. 定位到“```计算机\HKEY_LOCAL_MACHINE\SYSTEM\Setup```”，在此处新建“项”，名称为 ```LabConfig```；
