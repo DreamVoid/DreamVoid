@@ -1,6 +1,7 @@
 ---
 title: 使用 postmarketOS 打造便携服务器（2）：Docker、防火墙和 1Panel 面板
 date: 2026-03-17 22:38:39
+tags: 
 - Linux
 - postmarketOS
 categories: 技术
