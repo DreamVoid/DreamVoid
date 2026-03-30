@@ -25,6 +25,14 @@ categories: 技术
 
 持久化目录位于 `/etc/NetworkManager/system-connections/`，这里有一个 `USB Networking.nmconnection` 文件，修改文件中 `[ipv4]` 和 `[ipv6]` 的 `method` 为 `auto`，然后删除其他无用的配置即可。如果图方便，也可以选择直接删除整个文件，但我不会删的，我可不想哪天网络配置挂了还要用手机屏幕来配置网络。
 
+### 高级持久化
+然而我发现有时候重启之后，连 `USB Networking.nmconnection` 文件都还原了，查询官方指南也没得到一个漂亮的解决方案。官方指南是在开机时用 local.d 脚本手动修改配置，我觉得不够持久，于是我选择用这条命令阻止写入操作：
+```bash
+chattr +i /etc/NetworkManager/system-connections/USB\ Networking.nmconnection
+```
+
+重启之后，不会再恢复原始配置了。
+
 # ZeroTier 组网
 Alpine Linux 的 ZeroTier 比较特殊，官方安装脚本无法安装，包管理器也无法安装。原因不是我们要讨论的，既然无法用现成的方法安装，就只能回归最传统的方式：编译安装。
 
