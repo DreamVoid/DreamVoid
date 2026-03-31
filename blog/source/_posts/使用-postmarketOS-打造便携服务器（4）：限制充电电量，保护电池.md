@@ -4,6 +4,7 @@ date: 2026-03-31 10:42:25
 tags: 
 - Linux
 - postmarketOS
+categories: 技术
 ---
 
 > 当使用旧智能手机作为永久服务器且始终供电时，保持电池电压最高并不理想。
